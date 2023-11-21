@@ -1,5 +1,5 @@
 # SSL-WM
-The implementation of _SSL-WM: A Black-Box Watermarking Approach for Encoders Pre-trained by Self-Supervised Learning_.
+The implementation of _SSL-WM: A Black-Box Watermarking Approach for Encoders Pre-trained by Self-Supervised Learning.
 
 ## Getting started
 
