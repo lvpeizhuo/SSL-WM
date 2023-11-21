@@ -1,0 +1,13 @@
+{
+    "poison_label": 8,
+    "poison_ratio": 0.15,
+    "magnitude": 30,
+    "channel_list": [0,1,2],
+    "start_pos": [24,24],
+    "dct_size": 8,
+    "pos_list": [[15,10],[20,20],[25,31]],
+    "k": 200,
+    "epochs": 500,
+    "batch_size": 192,
+    "temperature": 0.5
+} 
